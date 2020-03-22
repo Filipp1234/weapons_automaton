@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+    html,body{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+  
+    background-size: cover;
+    background-blend-mode: multiply;
+    background-color: #222629;
+    background-size: cover;
+    background-position: center;
+    }
+    
+    
+    #logo{
+     background-color: white;
+    float: left; 
+    width: 20%;
+    height: 80%;
+    font-family: 'Pacifico', cursive;
+    }
+    #menu{
+     background-color: white;
+     float: right;
+     width: 75%;
+    height: 80%;
+    }
+     header{
+        padding: 10px 0.5% 0px 0.5%;
+        background-color: black;
+        width: 99%;
+        height: 5%;
+        text-align: center;
+     }
+    
+    .rew{
+        display: inline-block;   
+        width: 20%;
+        height: 100%;
+        border-radius: 20%;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+       font-size: 30px;
+       
+    }
+    @media (max-width: 700px) {
+        header {
+            height: 10%;
+        }
+    }
+    .rew:hover {
+        background-color: black;
+        
+            color: white;
+        
+    }
+    
+    main{
+        width: auto;
+        height:auto ;
+        font-size: 150%;
+        color:white
+        
+    }
+    
+    #tyu{
+color:aquamarine;
+    }
+
+    #reg{
+        color:white
+    }
+    p{
+        color:white;
+        text-align: justify;
+        margin-left: 100px;
+        margin-right: 100px;
+    }
+    a{
+        text-align: center
+    }
+    h1{
+        color: white
+    }
+#menu a{
+    color: black;
+}
+#trewq{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     font-size: 30px;
+}
+p {
+    text-indent: 20px; /* Отступ первой строки в пикселах */
+   }
+   #red{
+   color:  white;
+  
+}
+   
+#ser{
+    color: black
+}
+
+#ty{
+    margin-left: 4%;
+    color:white
+}
+.one{
+    text-align: center;
+    font-size: 50px
+}
+#change{
+    border-radius: 50%
+}
+#ger{
+    text-align: center;
+}
+#ler{
+    font-size: 24px
+}
+
+#sas{
+    margin-top: 9px;
+    color:white;} 
+#asd{
+    text-align: center;
+    
+}
